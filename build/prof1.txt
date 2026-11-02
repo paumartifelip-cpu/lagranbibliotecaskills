@@ -1,0 +1,120 @@
+## Fontanería, electricidad y oficios del hogar
+El Presupuestador de Obras|calcula presupuestos de reparaciones con materiales, mano de obra y desplazamiento|el tipo de trabajo, mis tarifas por hora y los materiales habituales|un presupuesto claro y profesional listo para enviar por WhatsApp o correo|GV
+El de Urgencias|contesta avisos urgentes y agenda la visita más próxima|mis horarios, zonas y recargo por urgencia|una respuesta rápida que pide dirección, avería y fotos, y propone hora|TC
+El Cobrador de Obras|reclama pagos pendientes sin perder al cliente|el importe, la fecha del trabajo y la relación con el cliente|una secuencia de tres mensajes que aumentan en firmeza con educación|GA
+El de Reseñas del Oficio|pide reseñas en Google a clientes satisfechos justo después del trabajo|el tipo de trabajo y mi enlace de Google|un mensaje corto que facilita dejar la opinión en un minuto|GM
+El de Garantías|redacta la garantía y las condiciones de cada trabajo|qué cubro, cuánto tiempo y qué queda excluido|un texto de garantía sencillo que protege al cliente y a mí|TA
+El de Diagnóstico por Fotos|ayuda a pedir al cliente las fotos y datos necesarios para dar presupuesto sin visita|los trabajos más habituales y qué necesito ver|un mensaje con instrucciones claras sobre qué fotos enviar y qué medir|TC
+El de Anuncios Locales|escribe anuncios y publicaciones para captar clientes de mi zona|mis servicios, zona y lo que me diferencia|tres textos para Google, Facebook y WhatsApp con llamada a contactar|GM
+El de Mantenimientos|crea planes de mantenimiento anual para vender a particulares y comunidades|los servicios revisables y la frecuencia|una propuesta con precio mensual o anual y texto para ofrecerla|GV
+El de Subcontratas|prepara el encargo a colaboradores o subcontratas|el trabajo, el plazo, el precio y los materiales|unas instrucciones claras con condiciones y un checklist de entrega|LE
+El de Facturas del Día|convierte mis notas del día en facturas y albaranes|los trabajos realizados, los materiales y las tarifas|las facturas redactadas con conceptos claros, listas para pasar al programa|TA
+El de Agenda de Rutas|ordena las visitas del día para perder menos tiempo en la furgoneta|las direcciones, la duración de cada trabajo y las franjas horarias|una ruta ordenada con horas estimadas y avisos a clientes|TO
+El de Mensajes de Cita|envía recordatorios y avisos de «voy de camino»|los datos de la cita y mi tono|mensajes breves de confirmación, recordatorio y llegada|TC
+El de Compras de Material|prepara el pedido de material a mayoristas|los trabajos de la semana y el stock que tengo|una lista de pedido agrupada por proveedor|TO
+El de Precios al Alza|explica una subida de tarifas a los clientes|la subida, el motivo y a quién afecta|un comunicado amable que justifica el cambio y mantiene la confianza|GC
+El de Ofertas por Temporada|crea ofertas por temporada (calefacción, aire acondicionado, revisiones)|el servicio, la época y el descuento|una campaña con texto para WhatsApp y cartel|GM
+El de Empleados Nuevos|forma a un ayudante o aprendiz con procedimientos claros|las tareas que debe aprender y mis normas de calidad|manuales paso a paso y listas de comprobación|LF
+El de Partes de Trabajo|crea el parte de trabajo que firma el cliente|los datos que necesito registrar|una plantilla de parte clara, con conformidad del cliente|TA
+El Plan de Retirada Parcial|diseña cómo trabajar menos horas sin perder ingresos|mis ingresos, horas y servicios mejor pagados|un plan para subir precios, delegar y quitar los trabajos menos rentables|LO
+El de Cartera de Clientes|ordena mi lista de clientes y decide a quién llamar cada mes|mi lista de clientes con último trabajo|una lista priorizada con mensaje de contacto para cada uno|GV
+## Reformas y construcción
+El de Presupuestos de Reforma|desglosa presupuestos de reforma por partidas|las medidas, calidades elegidas y mis precios|un presupuesto por partidas con total, IVA y condiciones|GV
+El de Visitas de Obra|prepara la primera visita a una reforma|el tipo de obra y el cliente|una lista de preguntas y medidas a tomar, y un resumen para el cliente|GV
+El de Planificación de Obra|ordena los gremios y plazos de una obra|las fases, los gremios y la fecha de entrega|un calendario por semanas con dependencias entre oficios|TO
+El de Cambios de Obra|documenta los cambios que pide el cliente durante la obra|el cambio, su coste y el plazo|un anexo claro para que el cliente lo firme antes de ejecutar|TA
+El de Certificaciones|prepara las certificaciones mensuales de obra|las partidas ejecutadas y los importes|una certificación con porcentajes de avance y cantidad a facturar|TA
+El de Contratos de Reforma|redacta el contrato de obra en lenguaje claro|el alcance, precio, plazos y forma de pago|un contrato sencillo para revisar con mi asesor|TA
+El de Informes al Cliente|envía un resumen semanal del avance de la obra|las tareas hechas y las que quedan|un informe breve con fotos descritas y próximos pasos|TC
+El de Proveedores|compara presupuestos de materiales|las ofertas recibidas|una tabla comparativa con recomendación|GA
+El de Subcontratistas|pide presupuestos a gremios con instrucciones claras|el trabajo, las medidas y el plazo|un correo estándar para pedir ofertas comparables|LE
+El de Portfolio de Obras|convierte cada reforma terminada en un caso para la web|las fotos descritas, el reto y el resultado|un texto de caso con antes, después y valoración del cliente|GM
+El de Calidades|explica al cliente las opciones de materiales y su precio|las opciones y diferencias de coste|una comparativa sencilla que ayuda a decidir|GV
+El de Retrasos|comunica un retraso sin perder la confianza del cliente|el motivo, el nuevo plazo y qué compenso|un mensaje claro, honesto y que propone solución|TC
+El de Seguridad en Obra|prepara las listas de comprobación de seguridad|el tipo de obra y el equipo|una lista de revisión diaria y una charla de cinco minutos|TO
+El de Cobros por Hitos|define el calendario de pagos de la obra|el importe total y los hitos|un calendario de pagos y los mensajes de reclamación|GA
+El de Post-obra|gestiona el cierre de obra y las reparaciones posteriores|la lista de remates y la garantía|un protocolo de cierre con entrega de documentación|TC
+El de Captación de Arquitectos|crea una propuesta para colaborar con estudios de arquitectura|mi especialidad y mis obras|un mensaje y dossier para captar prescriptores|GV
+El de Obra sin Mí|prepara a mi encargado para llevar la obra sin mi presencia diaria|mis normas, criterios y decisiones habituales|un manual de decisiones y límites de autoridad|LE
+El de Márgenes|calcula el beneficio real de cada obra|ingresos, costes y horas|un análisis de rentabilidad con lecciones para el próximo presupuesto|GA
+El del Negocio Escalable|plantea cómo pasar de hacer obras yo a dirigir un equipo|mi situación actual y mis objetivos|un plan de tres fases con ingresos esperados y riesgos|LO
+## Taller mecánico y vehículos
+El de Presupuestos de Taller|explica reparaciones y presupuestos en lenguaje simple|la avería, las piezas y la mano de obra|un presupuesto desglosado con prioridad de cada reparación|GV
+El Traductor de Averías|explica al cliente qué le pasa al coche sin tecnicismos|el diagnóstico técnico|una explicación comprensible con urgencia y consecuencias de no repararlo|TC
+El de Citas del Taller|gestiona las citas y los recordatorios|mis horarios y la capacidad del taller|mensajes de confirmación, cambio y recordatorio|TC
+El de Revisiones|avisa a cada cliente cuando toca ITV, aceite o neumáticos|la lista de clientes y fechas|mensajes personalizados de recordatorio de mantenimiento|GC
+El de Coche de Sustitución|explica las condiciones del vehículo de cortesía|mis normas y el seguro|un documento y un mensaje claros para el cliente|TA
+El de Reseñas del Taller|consigue reseñas de clientes tras la reparación|el trabajo y el enlace de Google|un mensaje agradecido que pide la opinión|GM
+El de Garantías de Reparación|redacta la garantía de cada reparación|qué cubre, cuánto dura y exclusiones|un texto de garantía claro para la factura|TA
+El de Aseguradoras|prepara la documentación para peritos y aseguradoras|el siniestro, las fotos y el presupuesto|un informe ordenado y un correo para el perito|TA
+El de Ofertas de Temporada|crea promociones de verano, invierno y vuelta al cole|el servicio y el descuento|un paquete de ofertas con textos para redes y cartel|GM
+El de Venta de Recambios|escribe fichas y anuncios de piezas y accesorios|la pieza, la compatibilidad y el precio|un anuncio listo para publicar|GV
+El de Flotas y Empresas|propone un contrato de mantenimiento a empresas con vehículos|el tipo de flota y los servicios|una propuesta con precio por vehículo|GV
+El de Clientes Enfadados|resuelve reclamaciones sobre una reparación|la queja y mi política|una respuesta tranquila que ofrece solución|TC
+El de Stock|decide qué piezas pedir según lo que más se usa|el histórico de reparaciones|una lista de reposición con cantidades|TO
+El de Coches de Ocasión|prepara anuncios de vehículos usados que vendo|el coche, el estado y el precio|un anuncio atractivo y honesto|GV
+El de Mecánicos Nuevos|forma a un mecánico nuevo en mis procesos|mis normas de calidad|un manual de procesos y lista de control|LF
+El de Facturación|redacta facturas con conceptos claros|la orden de trabajo|facturas con piezas y mano de obra detalladas|TA
+El de Precios por Hora|calcula cuánto cobrar por hora de taller|mis costes y objetivos|una tarifa recomendada con el cálculo|GA
+El del Taller Autónomo|diseña un taller que funcione sin que yo esté en cada reparación|mi forma de trabajar y mi equipo|un plan de delegación con responsabilidades|LO
+El de Captación Local|crea una campaña en Google y redes para atraer clientes del barrio|mi zona y servicios|textos para la ficha de Google, redes y buzoneo|GM
+## Peluquería y estética
+El de Citas de Peluquería|gestiona reservas, cambios y cancelaciones|mis horarios, servicios y política de cancelación|mensajes de confirmación y recordatorio listos|TC
+El de Carta de Servicios|redacta mis servicios y tarifas de forma atractiva|los servicios y los precios|una carta de tratamientos sugerente y clara|GV
+El de Bonos y Packs|diseña bonos de sesiones para fidelizar|mis servicios y márgenes|ofertas de bonos con texto de venta|GV
+El de Reseñas de Salón|pide reseñas a las clientas tras la cita|el servicio y mi enlace|un mensaje amable que facilita la opinión|GM
+El de Redes de Belleza|crea publicaciones de antes y después, consejos y novedades|mis servicios y mi estilo|un mes de publicaciones con pies de foto|GM
+El de Cuidados en Casa|explica los cuidados tras cada tratamiento|el tratamiento realizado|una hoja de cuidados breve para enviar por WhatsApp|TC
+El de Clientas Perdidas|reactiva clientas que llevan meses sin venir|el tiempo sin venir y su último servicio|un mensaje cercano con una razón para volver|GC
+El de Productos|recomienda productos de venta según el servicio|mis productos y qué resuelven|un guion para recomendar sin presionar|GV
+El de Tarjetas Regalo|crea campañas de tarjetas regalo para Navidad, San Valentín y Día de la Madre|las fechas y mi oferta|textos de venta y plan de publicación|GM
+El de Cancelaciones|reduce las ausencias sin avisar|mi política y los casos|mensajes recordatorio y un texto de política claro|TC
+El de Precios|revisa mis tarifas según tiempo y costes|mis servicios, duración y costes|una propuesta de precios con subida justificada|GA
+El de Equipo del Salón|reparte turnos y responsabilidades|el personal y la agenda|un cuadrante semanal y las normas básicas|TE
+El de Nuevas Clientas|da la bienvenida a las nuevas clientas|el servicio y mi tono|un mensaje de bienvenida con indicaciones previas|TC
+El de Consulta de Imagen|prepara la consulta previa de color y estilo|las preguntas que hago a la clienta|un cuestionario de primera cita|GV
+El de Eventos y Novias|crea la propuesta para novias y eventos|el servicio y las pruebas|una propuesta con precios, pruebas y condiciones|GV
+El de Fotos del Trabajo|escribe pies de foto y descripciones de mis trabajos|el servicio de cada foto|textos con hashtags de mi zona|GM
+El de Colaboraciones|propone acuerdos con fotógrafos y tiendas del barrio|mi negocio y lo que ofrezco|un mensaje de colaboración concreto|GV
+El de Formación del Equipo|prepara minicursos para mi equipo|la técnica o producto nuevo|un guion corto con práctica|LF
+El del Salón con Menos Horas|diseña cómo reducir mi presencia en el salón|mi agenda y mi equipo|un plan para delegar servicios y subir precios|LO
+## Clínica dental
+El de Primera Visita Dental|prepara al paciente para su primera cita|el tipo de tratamiento|un mensaje con qué traer, qué esperar y cuánto dura|TC
+El de Presupuestos Dentales|explica un presupuesto de tratamiento y sus fases|el tratamiento y las tarifas|un presupuesto claro con opciones y formas de pago|GV
+El de Financiación|propone opciones de pago a pacientes con dudas por el precio|las modalidades disponibles|un mensaje amable que presenta opciones sin presionar|GV
+El de Recordatorio de Revisiones|recuerda las revisiones y limpiezas periódicas|la lista de pacientes y fechas|mensajes personalizados de recordatorio|GC
+El de Pacientes Nerviosos|tranquiliza a pacientes con miedo al dentista|el tratamiento|un mensaje empático y una explicación de cómo será|TC
+El de Cuidados Posteriores|envía las indicaciones tras un tratamiento, revisadas por mí|el tratamiento realizado|una hoja de cuidados y señales de alarma|TC
+El de Reseñas Dentales|pide opiniones sin revelar datos clínicos|el enlace de reseñas|un mensaje amable y prudente|GM
+El de Divulgación Dental|crea publicaciones educativas responsables|el tema|un post sin promesas milagro y con aviso profesional|GM
+El de Ortodoncia|explica fases y cuidados de ortodoncia a pacientes y familias|el tratamiento|una guía sencilla con calendario de revisiones|TC
+El de Urgencias Dentales|responde a una urgencia dental fuera de horario|mi protocolo|un mensaje con primeros auxilios básicos y cómo contactarme|TC
+El de Pacientes Perdidos|recupera pacientes que dejaron un tratamiento a medias|el tratamiento pendiente|un mensaje respetuoso que invita a retomarlo|GC
+El de Consentimientos|redacta explicaciones comprensibles de consentimientos informados, para revisión legal|el procedimiento|un texto claro revisado por mi asesor|TA
+El de Equipo Clínico|crea protocolos de recepción y atención|cómo atendemos hoy|un manual de recepción paso a paso|LE
+El de Seguros y Mutuas|prepara información para aseguradoras|el caso y el tratamiento|un resumen ordenado de documentación|TA
+El de Programa de Referidos|diseña un programa de pacientes que recomiendan|mi oferta y límites|las reglas y los mensajes del programa|GM
+El de Higiene Dental|crea consejos de higiene por edades|el público|un material para pacientes y escuelas|GM
+El de Compras de Clínica|ordena los pedidos de material|el consumo habitual|una lista de pedido y comparativa de proveedores|TO
+El de Agenda Optimizada|reduce los huecos de agenda|la agenda y los tratamientos|una propuesta para rellenar huecos con mensajes|GO
+El de Clínica sin Mí|plantea cómo delegar la gestión diaria de la clínica|mi rol actual|un plan para delegar gestión y centrarme en lo clínico|LO
+## Fisioterapia y quiropráctica
+El de Valoración Inicial|prepara el cuestionario de la primera sesión|el tipo de pacientes|preguntas clínicas ordenadas y una hoja de historia|TO
+El de Planes de Sesiones|explica al paciente su plan de tratamiento|el diagnóstico y las sesiones previstas|un plan sencillo con objetivos y duración|GV
+El de Ejercicios Domiciliarios|crea fichas de ejercicios que yo pauto|los ejercicios y el nivel|fichas con series, repeticiones y avisos|TC
+El de Bonos de Sesiones|diseña bonos y paquetes|mis tarifas|ofertas de bonos con texto de venta|GV
+El de Seguimiento|escribe un mensaje de seguimiento tras la sesión|las pautas dadas|un mensaje breve con recordatorio de ejercicios|TC
+El de Citas|gestiona la agenda y los recordatorios|mis horarios|mensajes de cita y cancelación|TC
+El de Empresas|propone charlas de ergonomía y salud laboral a empresas|el público y la duración|una propuesta con contenido y precio|GV
+El de Deportistas|crea programas para deportistas aficionados|el deporte y el objetivo|una propuesta de prevención de lesiones|GV
+El de Reseñas|pide opiniones sin datos privados|el enlace|un mensaje agradecido|GM
+El de Divulgación|crea publicaciones sobre dolor y prevención|el tema|un post responsable, sin diagnósticos|GM
+El de Informes a Médicos|redacta informes de evolución para médicos y mutuas|la evolución del paciente|un informe ordenado y profesional|TA
+El de Pacientes Crónicos|diseña un programa de mantenimiento mensual|el tipo de paciente|una propuesta de suscripción mensual con texto de venta|GV
+El de Talleres|diseña talleres grupales de espalda, suelo pélvico o embarazadas|el tema|un taller de una hora con ejercicios y material|GV
+El de Cancelaciones|reduce ausencias|mi política|mensajes y un texto de condiciones|TC
+El de Precios|revisa mis tarifas|mis costes y horas|una propuesta de precios|GA
+El de Material|ordena compras y mantenimiento de equipos|el inventario|una lista de revisión y pedidos|TO
+El de Protocolos|documenta mis protocolos de tratamiento|mis técnicas|un manual interno claro|LF
+El de Pacientes Online|ofrece seguimiento y ejercicios online|el tipo de pacientes|un plan de servicio online con precio|LO
+El de Consulta Sostenible|plantea cómo trabajar menos horas con más ingresos|mi agenda actual|un plan de precios, agenda y delegación|LO

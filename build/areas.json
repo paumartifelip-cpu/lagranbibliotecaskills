@@ -1,0 +1,1028 @@
+[
+ {
+  "id": 1,
+  "title": "Ventas y clientes",
+  "skills": [
+   {
+    "n": "El Cualificador",
+    "d": "Decide si un contacto merece tu tiempo."
+   },
+   {
+    "n": "El Propuestero",
+    "d": "Convierte tus notas de una llamada en propuesta."
+   },
+   {
+    "n": "El Seguidor",
+    "d": "Escribe el seguimiento a quien no respondió."
+   },
+   {
+    "n": "El Rebatidor",
+    "d": "Responde a “es muy caro” con tu estilo."
+   },
+   {
+    "n": "El Presupuestador",
+    "d": "Arma presupuestos con tus tarifas."
+   },
+   {
+    "n": "El Guionista de Llamadas",
+    "d": "Prepara las preguntas antes de vender."
+   },
+   {
+    "n": "El Cerrador de WhatsApp",
+    "d": "Mensajes para cerrar sin presionar."
+   },
+   {
+    "n": "El Recuperador",
+    "d": "Reactiva a clientes que se fueron."
+   },
+   {
+    "n": "El Siguiente Paso",
+    "d": "Sugiere qué ofrecer a cada cliente después."
+   },
+   {
+    "n": "El Investigador",
+    "d": "Te resume quién es el cliente antes de llamar."
+   },
+   {
+    "n": "El Redactor de Ofertas",
+    "d": "Tu oferta clara en una sola página."
+   },
+   {
+    "n": "El Caso de Éxito",
+    "d": "Convierte un resultado real en historia que vende."
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "title": "Atención al cliente",
+  "skills": [
+   {
+    "n": "La Contestadora",
+    "d": "Responde mensajes de clientes con tu tono."
+   },
+   {
+    "n": "El de Dudas Frecuentes",
+    "d": "Responde con tus respuestas oficiales."
+   },
+   {
+    "n": "El Calmador",
+    "d": "Contesta a clientes enfadados sin perder la calma."
+   },
+   {
+    "n": "El de Bienvenidas",
+    "d": "Mensaje de bienvenida a cada cliente nuevo."
+   },
+   {
+    "n": "El de Reseñas",
+    "d": "Responde reseñas buenas y malas."
+   },
+   {
+    "n": "El Recordador",
+    "d": "Avisos de citas, entregas y pagos."
+   },
+   {
+    "n": "El Encuestador",
+    "d": "Crea encuestas de satisfacción cortas."
+   },
+   {
+    "n": "El Políglota",
+    "d": "Responde en el idioma de cada cliente."
+   },
+   {
+    "n": "El de Reclamaciones",
+    "d": "Gestiona quejas siguiendo tu política."
+   },
+   {
+    "n": "El Agradecedor",
+    "d": "Mensajes de gracias después de cada compra."
+   },
+   {
+    "n": "El Clasificador",
+    "d": "Ordena las consultas por urgencia."
+   },
+   {
+    "n": "El del Manual",
+    "d": "Instrucciones de uso de tu producto o servicio."
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "title": "Marketing y redes sociales",
+  "skills": [
+   {
+    "n": "La Publicista",
+    "d": "Convierte un tema en tres publicaciones."
+   },
+   {
+    "n": "El de Carruseles",
+    "d": "Ordena una idea en diapositivas."
+   },
+   {
+    "n": "El de Ganchos",
+    "d": "Diez primeras frases para cada publicación."
+   },
+   {
+    "n": "El del Calendario",
+    "d": "Plan de publicaciones del mes."
+   },
+   {
+    "n": "El de Pies de Foto",
+    "d": "Textos para Instagram con tu voz."
+   },
+   {
+    "n": "El Reciclador",
+    "d": "Un contenido largo en diez cortos."
+   },
+   {
+    "n": "El de Anuncios",
+    "d": "Textos para anuncios pagados."
+   },
+   {
+    "n": "El Espía Amable",
+    "d": "Analiza qué funciona a tu competencia."
+   },
+   {
+    "n": "El de Historias",
+    "d": "Secuencias de stories que venden."
+   },
+   {
+    "n": "El de LinkedIn",
+    "d": "Publicaciones profesionales con tu estilo."
+   },
+   {
+    "n": "El Lector de Comentarios",
+    "d": "Saca las dudas de tu audiencia."
+   },
+   {
+    "n": "El Buscapalabras",
+    "d": "Descubre cómo te busca la gente."
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "title": "Contenido escrito",
+  "skills": [
+   {
+    "n": "El Bloguero",
+    "d": "Artículos con tu estructura y tu tono."
+   },
+   {
+    "n": "El de la Newsletter",
+    "d": "Tu boletín semanal listo para enviar."
+   },
+   {
+    "n": "El Corrector",
+    "d": "Revisa sin cambiar tu voz."
+   },
+   {
+    "n": "El Titulador",
+    "d": "Diez títulos para cada texto."
+   },
+   {
+    "n": "El Resumidor",
+    "d": "Resume libros y artículos en cinco ideas."
+   },
+   {
+    "n": "El Simplificador",
+    "d": "Explica lo difícil de forma fácil."
+   },
+   {
+    "n": "El de Páginas de Venta",
+    "d": "Tu página de venta paso a paso."
+   },
+   {
+    "n": "El Biógrafo",
+    "d": "Escribe tu “sobre mí” para cada sitio."
+   },
+   {
+    "n": "El de Guías",
+    "d": "Convierte lo que sabes en guía descargable."
+   },
+   {
+    "n": "El Editor Implacable",
+    "d": "Recorta cualquier texto a la mitad."
+   },
+   {
+    "n": "El de Buscadores",
+    "d": "Prepara tus textos para que te encuentren."
+   },
+   {
+    "n": "El Cuentacuentos",
+    "d": "Convierte una idea en historia."
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "title": "Vídeo y YouTube",
+  "skills": [
+   {
+    "n": "El Guionista",
+    "d": "Guiones con gancho para tus vídeos."
+   },
+   {
+    "n": "El de Títulos",
+    "d": "Títulos según lo que la gente busca."
+   },
+   {
+    "n": "El de Miniaturas",
+    "d": "Ideas de portada para cada vídeo."
+   },
+   {
+    "n": "El de Descripciones",
+    "d": "Descripción y capítulos del vídeo."
+   },
+   {
+    "n": "El de Cortos",
+    "d": "Elige los mejores trozos para vídeos cortos."
+   },
+   {
+    "n": "El de Ideas",
+    "d": "Temas según las dudas de tu audiencia."
+   },
+   {
+    "n": "El del Teleprompter",
+    "d": "Texto natural para leer a cámara."
+   },
+   {
+    "n": "El de Escaletas",
+    "d": "El esquema del vídeo antes de grabar."
+   },
+   {
+    "n": "El de Subtítulos",
+    "d": "Revisa y corrige tus subtítulos."
+   },
+   {
+    "n": "El de Directos",
+    "d": "Guion y dinámicas para un directo."
+   },
+   {
+    "n": "El de Comentarios",
+    "d": "Responde los comentarios del canal."
+   },
+   {
+    "n": "El Anunciador",
+    "d": "Avisa a tu comunidad de cada vídeo nuevo."
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "title": "Correo y mensajes del día a día",
+  "skills": [
+   {
+    "n": "El Secretario de Correos",
+    "d": "Responde con tu firma y tu tono."
+   },
+   {
+    "n": "El de la Bandeja",
+    "d": "Te resume los correos importantes del día."
+   },
+   {
+    "n": "El Diplomático",
+    "d": "Dice que no con elegancia."
+   },
+   {
+    "n": "El de Disculpas",
+    "d": "Pide perdón sin excusas ni rodeos."
+   },
+   {
+    "n": "El Insistente Amable",
+    "d": "Recuerda algo pendiente sin molestar."
+   },
+   {
+    "n": "El Negociador",
+    "d": "Pide mejores condiciones a proveedores."
+   },
+   {
+    "n": "El Presentador",
+    "d": "Presenta a dos personas por correo."
+   },
+   {
+    "n": "El Cambiatonos",
+    "d": "Pasa un mensaje de formal a cercano."
+   },
+   {
+    "n": "El de Audios",
+    "d": "Convierte tus notas de voz en mensajes."
+   },
+   {
+    "n": "El Traductor",
+    "d": "Traduce sin perder tu forma de hablar."
+   },
+   {
+    "n": "El de Felicitaciones",
+    "d": "Mensajes de cumpleaños a tus clientes."
+   },
+   {
+    "n": "El de Conversaciones Difíciles",
+    "d": "Te prepara para hablar de algo delicado."
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "title": "Organización personal",
+  "skills": [
+   {
+    "n": "El Planificador Semanal",
+    "d": "Ordena tu semana a partir de tus tareas."
+   },
+   {
+    "n": "El Priorizador",
+    "d": "Elige las tres cosas que importan hoy."
+   },
+   {
+    "n": "El de Listas",
+    "d": "Convierte notas sueltas en tareas claras."
+   },
+   {
+    "n": "El Troceador",
+    "d": "Divide un proyecto grande en pasos pequeños."
+   },
+   {
+    "n": "El Despejador",
+    "d": "Vacías la cabeza y te lo devuelve ordenado."
+   },
+   {
+    "n": "El Revisor del Viernes",
+    "d": "Repasa la semana y prepara la siguiente."
+   },
+   {
+    "n": "El de Hábitos",
+    "d": "Diseña un hábito pequeño que sí cumplas."
+   },
+   {
+    "n": "El Decisor",
+    "d": "Pros y contras con tus propios criterios."
+   },
+   {
+    "n": "El Antiagobio",
+    "d": "Te ayuda a elegir cuando todo parece urgente."
+   },
+   {
+    "n": "El de Metas",
+    "d": "Convierte una meta en un plan de 30 días."
+   },
+   {
+    "n": "El de Rutinas",
+    "d": "Diseña tu mañana ideal de trabajo."
+   },
+   {
+    "n": "El Cronometrador",
+    "d": "Calcula cuánto te llevará cada tarea."
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "title": "Reuniones y equipo",
+  "skills": [
+   {
+    "n": "El Secretario de Reuniones",
+    "d": "Acta, acuerdos y tareas de cada reunión."
+   },
+   {
+    "n": "El del Orden del Día",
+    "d": "Prepara la agenda antes de reunirte."
+   },
+   {
+    "n": "El Delegador",
+    "d": "Instrucciones claras para quien te ayuda."
+   },
+   {
+    "n": "El Entrevistador",
+    "d": "Preguntas para contratar a la persona correcta."
+   },
+   {
+    "n": "El de Ofertas de Empleo",
+    "d": "Anuncios de trabajo que atraen."
+   },
+   {
+    "n": "El de Bienvenida al Equipo",
+    "d": "Primer día de una persona nueva."
+   },
+   {
+    "n": "El de Procedimientos",
+    "d": "Convierte una tarea en manual paso a paso."
+   },
+   {
+    "n": "El de Feedback",
+    "d": "Opiniones honestas y amables a tu equipo."
+   },
+   {
+    "n": "El de Informes",
+    "d": "Informe semanal de lo hecho y lo pendiente."
+   },
+   {
+    "n": "El Lluvia de Ideas",
+    "d": "Veinte ideas en cinco minutos."
+   },
+   {
+    "n": "El Moderador",
+    "d": "Prepara una reunión complicada."
+   },
+   {
+    "n": "El Formador Interno",
+    "d": "Minicurso para enseñar algo a tu equipo."
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "title": "Finanzas y números del negocio",
+  "skills": [
+   {
+    "n": "El Contable Ordenado",
+    "d": "Clasifica tus gastos por categorías."
+   },
+   {
+    "n": "El de Facturas",
+    "d": "Redacta conceptos de factura claros."
+   },
+   {
+    "n": "El de Precios",
+    "d": "Te ayuda a calcular cuánto cobrar."
+   },
+   {
+    "n": "El Cobrador con Tacto",
+    "d": "Reclama facturas impagadas con educación."
+   },
+   {
+    "n": "El Presupuestario",
+    "d": "Tu presupuesto del mes, claro y sencillo."
+   },
+   {
+    "n": "El de Rentabilidad",
+    "d": "Qué servicio te deja más dinero."
+   },
+   {
+    "n": "El Resumen del Mes",
+    "d": "Tus números del mes explicados fácil."
+   },
+   {
+    "n": "El Comparador",
+    "d": "Compara proveedores y presupuestos."
+   },
+   {
+    "n": "El de Escenarios",
+    "d": "Qué pasa si vendes más, o menos."
+   },
+   {
+    "n": "El de Ayudas",
+    "d": "Prepara solicitudes de subvenciones."
+   },
+   {
+    "n": "El del Gestor",
+    "d": "Ordena los papeles que te pide tu asesor."
+   },
+   {
+    "n": "El Ahorrador",
+    "d": "Encuentra suscripciones y gastos que sobran."
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "title": "Formación y cursos",
+  "skills": [
+   {
+    "n": "El Diseñador de Cursos",
+    "d": "Temario completo a partir de lo que sabes."
+   },
+   {
+    "n": "El de Clases",
+    "d": "Guion de cada clase con tu estilo."
+   },
+   {
+    "n": "El de Ejercicios",
+    "d": "Prácticas para cada lección."
+   },
+   {
+    "n": "El de Exámenes",
+    "d": "Preguntas tipo test con respuestas."
+   },
+   {
+    "n": "El de Resúmenes",
+    "d": "Resumen de la clase para tus alumnos."
+   },
+   {
+    "n": "El de Metáforas",
+    "d": "Explica cada concepto con un ejemplo cotidiano."
+   },
+   {
+    "n": "El de Fichas",
+    "d": "Hojas de trabajo descargables."
+   },
+   {
+    "n": "El Corrector de Tareas",
+    "d": "Revisa trabajos con tus criterios."
+   },
+   {
+    "n": "El de Talleres",
+    "d": "Diseña un taller de una hora."
+   },
+   {
+    "n": "El Bautizador",
+    "d": "Nombres de cursos con gancho."
+   },
+   {
+    "n": "El Tutor",
+    "d": "Responde las dudas de tus alumnos."
+   },
+   {
+    "n": "El de Graduaciones",
+    "d": "Felicita al alumno que termina."
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "title": "Inmobiliaria",
+  "skills": [
+   {
+    "n": "La Redactora de Fichas",
+    "d": "Notas sueltas en ficha lista para publicar."
+   },
+   {
+    "n": "El de Portales",
+    "d": "Anuncios adaptados a cada portal."
+   },
+   {
+    "n": "El de Visitas",
+    "d": "Prepara qué contar en cada visita."
+   },
+   {
+    "n": "El Argumentador de Precio",
+    "d": "Defiende el precio con tus datos reales."
+   },
+   {
+    "n": "El Captador",
+    "d": "Mensajes a propietarios que quieren vender."
+   },
+   {
+    "n": "El de Compradores",
+    "d": "Seguimiento a cada interesado."
+   },
+   {
+    "n": "El del Barrio",
+    "d": "Describe la zona y lo que tiene cerca."
+   },
+   {
+    "n": "El de Condiciones",
+    "d": "Resume un contrato para el cliente (revísalo tú)."
+   },
+   {
+    "n": "El del Vídeo Recorrido",
+    "d": "Guion para enseñar el piso en vídeo."
+   },
+   {
+    "n": "El Contraofertas",
+    "d": "Prepara la respuesta a una oferta."
+   },
+   {
+    "n": "El de Posventa",
+    "d": "Cuida al cliente después de firmar."
+   },
+   {
+    "n": "El de Alquileres",
+    "d": "Responde a inquilinos y propietarios."
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "title": "Salud y bienestar",
+  "skills": [
+   {
+    "n": "El de Citas",
+    "d": "Recordatorios y cambios de cita."
+   },
+   {
+    "n": "El Explicador",
+    "d": "Explica un tratamiento en lenguaje sencillo."
+   },
+   {
+    "n": "El de Indicaciones",
+    "d": "Hojas de cuidados en casa, revisadas por ti."
+   },
+   {
+    "n": "El Divulgador",
+    "d": "Publicaciones de salud responsables."
+   },
+   {
+    "n": "El de Primera Visita",
+    "d": "Qué traer y qué esperar el primer día."
+   },
+   {
+    "n": "El de Opiniones",
+    "d": "Responde reseñas sin revelar nada privado."
+   },
+   {
+    "n": "El de Presupuestos",
+    "d": "Presupuestos de tratamiento claros."
+   },
+   {
+    "n": "El de Recetas",
+    "d": "Recetas sanas con tu enfoque."
+   },
+   {
+    "n": "El de Ejercicios en Casa",
+    "d": "Fichas de ejercicios que tú pautas."
+   },
+   {
+    "n": "El de Seguimiento",
+    "d": "Mensaje amable después de la consulta."
+   },
+   {
+    "n": "El de Protocolos",
+    "d": "Procedimientos internos de la consulta."
+   },
+   {
+    "n": "El de Preguntas de la Consulta",
+    "d": "Horarios, precios y servicios."
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "title": "Abogados y asesores",
+  "skills": [
+   {
+    "n": "El de Escritos",
+    "d": "Primer borrador con tu estructura."
+   },
+   {
+    "n": "El Traductor de Legalés",
+    "d": "Explica lo jurídico a tu cliente."
+   },
+   {
+    "n": "El Resumidor de Documentos",
+    "d": "Lo esencial de un documento largo."
+   },
+   {
+    "n": "El Cronologista",
+    "d": "Ordena los hechos en una línea de tiempo."
+   },
+   {
+    "n": "El Abogado del Diablo",
+    "d": "Busca los argumentos contrarios."
+   },
+   {
+    "n": "El de Consultas",
+    "d": "Primera respuesta a quien te escribe."
+   },
+   {
+    "n": "El de Honorarios",
+    "d": "Propuestas de honorarios claras."
+   },
+   {
+    "n": "El Revisor de Contratos",
+    "d": "Señala las cláusulas a revisar."
+   },
+   {
+    "n": "El de Documentación",
+    "d": "Lista de papeles a pedir en cada caso."
+   },
+   {
+    "n": "El de Novedades",
+    "d": "Explica un cambio de norma a tus clientes."
+   },
+   {
+    "n": "El Preparador",
+    "d": "Prepara cada reunión con un cliente."
+   },
+   {
+    "n": "El de Correos Formales",
+    "d": "Comunicaciones serias sin sonar frío."
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "title": "Restaurantes y comercio local",
+  "skills": [
+   {
+    "n": "El de la Carta",
+    "d": "Describe tus platos para que apetezcan."
+   },
+   {
+    "n": "El del Menú del Día",
+    "d": "Publica el menú en cada red."
+   },
+   {
+    "n": "El de Promociones",
+    "d": "Ofertas que llenan los días flojos."
+   },
+   {
+    "n": "El de Reseñas en Mapas",
+    "d": "Responde opiniones de tu ficha."
+   },
+   {
+    "n": "El de Reservas",
+    "d": "Responde peticiones de mesa o cita."
+   },
+   {
+    "n": "El de Escandallos",
+    "d": "Calcula cuánto te cuesta cada plato."
+   },
+   {
+    "n": "El de Pedidos",
+    "d": "Prepara los pedidos a proveedores."
+   },
+   {
+    "n": "El de Eventos",
+    "d": "Anuncia catas, cenas y actividades."
+   },
+   {
+    "n": "El de Carteles",
+    "d": "Textos para escaparate y pizarra."
+   },
+   {
+    "n": "El Fidelizador",
+    "d": "Diseña tu club o tarjeta de clientes."
+   },
+   {
+    "n": "El de Turnos",
+    "d": "Organiza los horarios del equipo."
+   },
+   {
+    "n": "El de Tienda Online",
+    "d": "Fichas de producto que venden."
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "title": "Turismo, hoteles y viajes",
+  "skills": [
+   {
+    "n": "El Planificador de Viajes",
+    "d": "Itinerarios con tus gustos y presupuesto."
+   },
+   {
+    "n": "El Conserje",
+    "d": "Recomendaciones locales para huéspedes."
+   },
+   {
+    "n": "El de Bienvenida",
+    "d": "Mensaje al huésped antes de llegar."
+   },
+   {
+    "n": "El de Reseñas de Reservas",
+    "d": "Responde opiniones de tus huéspedes."
+   },
+   {
+    "n": "El de Habitaciones",
+    "d": "Describe cada habitación o alojamiento."
+   },
+   {
+    "n": "El de Experiencias",
+    "d": "Crea paquetes y actividades para vender."
+   },
+   {
+    "n": "El Nómada",
+    "d": "Tu lista de todo antes de viajar."
+   },
+   {
+    "n": "El Contador de Viaje",
+    "d": "Presupuesto de cada viaje."
+   },
+   {
+    "n": "El de Colaboraciones",
+    "d": "Mensajes a agencias y socios."
+   },
+   {
+    "n": "El Intérprete",
+    "d": "Frases útiles en el idioma del destino."
+   },
+   {
+    "n": "El Plan B",
+    "d": "Qué hacer si llueve o algo se cancela."
+   },
+   {
+    "n": "El de Rutas",
+    "d": "Rutas de un día en cualquier ciudad."
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "title": "Coaches y consultores",
+  "skills": [
+   {
+    "n": "El de Diagnóstico",
+    "d": "Preguntas para la primera sesión."
+   },
+   {
+    "n": "El de Resúmenes de Sesión",
+    "d": "Lo hablado y los compromisos."
+   },
+   {
+    "n": "El de Planes de Acción",
+    "d": "Próximos pasos para tu cliente."
+   },
+   {
+    "n": "El de Propuestas",
+    "d": "Propuestas de consultoría que se firman."
+   },
+   {
+    "n": "El de Testimonios",
+    "d": "Pide opiniones a clientes contentos."
+   },
+   {
+    "n": "El de Talleres",
+    "d": "Dinámicas para grupos."
+   },
+   {
+    "n": "El del Método",
+    "d": "Convierte tu forma de trabajar en método con nombre."
+   },
+   {
+    "n": "El de Tareas",
+    "d": "Ejercicios entre sesión y sesión."
+   },
+   {
+    "n": "El de Informes",
+    "d": "Informe de avances para el cliente."
+   },
+   {
+    "n": "El de Webinars",
+    "d": "Estructura de una clase gratuita que vende."
+   },
+   {
+    "n": "El de Charlas",
+    "d": "Guion para una charla o ponencia."
+   },
+   {
+    "n": "El de Preguntas Poderosas",
+    "d": "Preguntas que hacen pensar."
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "title": "Creativos y diseño",
+  "skills": [
+   {
+    "n": "El de Briefs",
+    "d": "Ordena lo que pide el cliente antes de empezar."
+   },
+   {
+    "n": "El de Prompts de Imagen",
+    "d": "Prompts cortos con tu estilo visual."
+   },
+   {
+    "n": "El de Paletas",
+    "d": "Propone colores de marca."
+   },
+   {
+    "n": "El Bautizador de Marcas",
+    "d": "Nombres para marcas y productos."
+   },
+   {
+    "n": "El de Eslóganes",
+    "d": "Frases cortas que se recuerdan."
+   },
+   {
+    "n": "El Crítico",
+    "d": "Revisa un diseño con tus criterios."
+   },
+   {
+    "n": "El de Presentaciones",
+    "d": "Estructura de diapositivas."
+   },
+   {
+    "n": "El de Portfolio",
+    "d": "Cuenta cada proyecto como un caso."
+   },
+   {
+    "n": "El de Inspiración",
+    "d": "Ideas de estilo para un proyecto."
+   },
+   {
+    "n": "El de Presupuestos Creativos",
+    "d": "Cotiza un encargo con tus tarifas."
+   },
+   {
+    "n": "El de Cambios",
+    "d": "Ordena el feedback del cliente en tareas."
+   },
+   {
+    "n": "El de Guías de Marca",
+    "d": "Reglas de uso de una marca."
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "title": "Aprender y pensar mejor",
+  "skills": [
+   {
+    "n": "El Profesor Paciente",
+    "d": "Te enseña cualquier tema desde cero."
+   },
+   {
+    "n": "El de Libros",
+    "d": "Ideas de un libro que puedes aplicar ya."
+   },
+   {
+    "n": "El Socrático",
+    "d": "Te hace preguntas en vez de darte respuestas."
+   },
+   {
+    "n": "El de Idiomas",
+    "d": "Practica conversación a tu nivel."
+   },
+   {
+    "n": "El de Tarjetas",
+    "d": "Tarjetas de estudio para memorizar."
+   },
+   {
+    "n": "El Cuestionador",
+    "d": "Pone a prueba tus ideas."
+   },
+   {
+    "n": "El Investigador",
+    "d": "Compara fuentes y te dice de dónde sale cada dato."
+   },
+   {
+    "n": "El de Esquemas",
+    "d": "Mapas mentales de cualquier tema."
+   },
+   {
+    "n": "El de Noticias",
+    "d": "Explica una noticia sin ruido."
+   },
+   {
+    "n": "El de Pódcast",
+    "d": "Lo útil de un episodio largo."
+   },
+   {
+    "n": "El Mentor de Negocio",
+    "d": "Revisa tus decisiones antes de tomarlas."
+   },
+   {
+    "n": "El del Diario",
+    "d": "Tu reflexión de cada semana."
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "title": "Vida personal y familia",
+  "skills": [
+   {
+    "n": "El Chef de Casa",
+    "d": "Menú semanal con lo que tienes en la nevera."
+   },
+   {
+    "n": "El de la Compra",
+    "d": "Lista de la compra ordenada por pasillos."
+   },
+   {
+    "n": "El de Fiestas",
+    "d": "Organiza cumpleaños y celebraciones."
+   },
+   {
+    "n": "El de Regalos",
+    "d": "Ideas de regalo para cada persona."
+   },
+   {
+    "n": "El de Trámites",
+    "d": "Te explica el papeleo paso a paso."
+   },
+   {
+    "n": "El de Viajes en Familia",
+    "d": "Planes que gustan a todos."
+   },
+   {
+    "n": "El Ayudante de Deberes",
+    "d": "Te ayuda a explicar los deberes a tus hijos."
+   },
+   {
+    "n": "El de la Casa",
+    "d": "Reparte las tareas del hogar."
+   },
+   {
+    "n": "El de Mascotas",
+    "d": "Rutinas y cuidados de tu animal."
+   },
+   {
+    "n": "El de Cuentas de Casa",
+    "d": "Presupuesto familiar del mes."
+   },
+   {
+    "n": "El de Dedicatorias",
+    "d": "Cartas y mensajes bonitos."
+   },
+   {
+    "n": "El de Planes",
+    "d": "Ideas para el fin de semana."
+   }
+  ]
+ }
+]
