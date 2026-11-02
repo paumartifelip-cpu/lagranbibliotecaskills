@@ -116,15 +116,16 @@
       document.querySelectorAll('.tab').forEach(function (t) { t.classList.toggle('on', t.getAttribute('data-kind') === st.kind); });
     }
     function renderPicker() {
-      if (st.cat || st.q) { picker.innerHTML = ''; return; }
-      var byCat = function (c) { return chip(c[1], c[0], false, c[3], 'data-cat'); };
+      if (st.cat || st.q || st.goal || st.func) { picker.innerHTML = ''; return; }
+      var row = function (c) { return '<li><button type="button" class="row" data-cat="' + c[0] + '"><span>' + esc(c[1]) + '</span><b>' + c[3] + '</b></button></li>'; };
+      var byName = function (a, b) { return a[1].localeCompare(b[1], 'es'); };
       if (st.kind === 'prof') {
-        picker.innerHTML = '<div class="sectors">' + (window.SECTORS || []).map(function (sec) {
-          var cs = C.filter(function (c) { return c[2] === 'prof' && c[4] === sec; }).sort(function (a, b) { return a[1].localeCompare(b[1], 'es'); });
-          return cs.length ? '<div class="sector"><h3>' + esc(sec) + '</h3><div class="chips">' + cs.map(byCat).join('') + '</div></div>' : '';
+        picker.innerHTML = '<div class="sectors">' + (window.SECTORS || []).map(function (sec, i) {
+          var cs = C.filter(function (c) { return c[2] === 'prof' && c[4] === sec; }).sort(byName);
+          return cs.length ? '<section class="sector"><h3><i>' + String(i + 1).padStart(2, '0') + '</i>' + esc(sec) + '</h3><ul class="plist">' + cs.map(row).join('') + '</ul></section>' : '';
         }).join('') + '</div>';
       } else {
-        picker.innerHTML = '<div class="chips">' + C.filter(function (c) { return c[2] === 'tarea'; }).sort(function (a, b) { return a[1].localeCompare(b[1], 'es'); }).map(byCat).join('') + '</div>';
+        picker.innerHTML = '<div class="sectors one"><section class="sector"><h3><i>★</i>Tareas que se repiten en cualquier trabajo</h3><ul class="plist cols">' + C.filter(function (c) { return c[2] === 'tarea'; }).sort(byName).map(row).join('') + '</ul></section></div>';
       }
     }
     function renderSugg() {
@@ -143,12 +144,12 @@
         list.innerHTML = ''; more.hidden = true; return;
       }
       var res = S.filter(function (s) { return (st.cat || st.q || CAT[s[6]][2] === st.kind) && matches(s); });
-      status.textContent = res.length + (res.length === 1 ? ' skill' : ' skills') + (st.cat ? '' : st.q ? ' para «' + st.q + '»' : '');
+      status.textContent = res.length + (res.length === 1 ? ' skill' : ' skills') + (st.cat ? '' : st.q ? ' para «' + st.q + '»' : ' con los filtros elegidos') + (!st.cat && !st.q ? ' · para elegir tu profesión quita los filtros' : '');
       var vis = res.slice(0, st.shown), html = '';
-      if (st.cat && !st.goal) { // agrupado por objetivo
-        ['G', 'T', 'L'].forEach(function (g) {
-          var part = vis.filter(function (s) { return s[4] === g; }); if (!part.length) return;
-          html += '<h3 class="gh">' + GOAL[g][0] + '<small>' + part.length + '</small></h3>' + part.map(function (s) { return card(s); }).join('');
+      if (st.cat && !st.q) { // agrupado por tarea (función)
+        Object.keys(FUNC).forEach(function (f) {
+          var part = vis.filter(function (s) { return s[5] === f; }); if (!part.length) return;
+          html += '<h3 class="gh">' + FUNC[f] + '<small>' + part.length + '</small></h3>' + part.map(function (s) { return card(s); }).join('');
         });
       } else html = vis.map(function (s) { return card(s); }).join('');
       list.innerHTML = html || '<p class="empty" style="display:block">No hay skills con ese filtro. Prueba otra palabra o quita algún filtro.</p>';

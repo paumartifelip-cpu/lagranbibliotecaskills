@@ -40,7 +40,10 @@ for f in files:
             if title.lower().startswith('libertad'):
                 cur = 'tlib'; cats.append([cur, title, 'tarea'])
             else:
-                pc += 1; cur = 'p%d' % pc; cats.append([cur, title, 'prof'])
+                ex = [c for c in cats if c[1] == title]
+                if ex: cur = ex[0][0]
+                else:
+                    pc += 1; cur = 'p%d' % pc; cats.append([cur, title, 'prof'])
             continue
         parts = [x.strip() for x in ln.split('|')]
         if len(parts) == 5 and len(parts[4]) == 2 and parts[4][1] not in 'VCMAOEF': parts[4] = parts[4][0] + 'O'
@@ -52,6 +55,20 @@ for f in files:
             warn.append(('frases', ln[:70])); continue
         d = does[0].upper() + does[1:].rstrip('.') + '.'
         S.append([len(S), n, d, p, code[0], code[1], cur])
+MERGE = {
+ 'Inmobiliaria': 'Inmobiliaria y corretaje de bienes raíces',
+ 'Salud y bienestar': 'Médico y profesional de la salud (consulta, hospital o centro)',
+ 'Abogados y asesores': 'Abogado y asesor jurídico o laboral independiente',
+ 'Restaurantes y comercio local': 'Bar y cafetería',
+ 'Turismo, hoteles y viajes': 'Hotel, turismo y agencia de viajes',
+ 'Coaches y consultores': 'Coach, mentor y mediador (vida, negocios, conciliación)',
+ 'Creativos y diseño': 'Diseñador gráfico, imprenta, impresión 3D y artes gráficas',
+}
+byt = {c[1]: c[0] for c in cats}
+remap = {byt[o]: byt[n] for o, n in MERGE.items() if o in byt and n in byt}
+for sk in S:
+    if sk[6] in remap: sk[6] = remap[sk[6]]
+cats = [c for c in cats if c[0] not in remap]
 for w in warn: print('SALTADA', w)
 
 SECTORS = ['Salud, belleza y deporte','Educación y formación','Tecnología, datos e IA','Oficios, construcción e ingeniería','Comercio, hostelería y turismo','Administración, finanzas y legal','Creativos, medios y marketing','Transporte, logística, seguridad y campo','Tu situación y emprender']
